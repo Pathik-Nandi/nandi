@@ -1,2 +1,0 @@
-# nandi
-first code
